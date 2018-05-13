@@ -12,7 +12,7 @@ This repository is nothing but an example on how to integrate Apache Hadoop, Apa
 <p>4. <a href="http://www.apache.org/dyn/closer.lua/hbase/2.0.0/hbase-2.0.0-bin.tar.gz">Apache HBase-2.0.0</a></p>
 <p>5. <a href="http://www-us.apache.org/dist/phoenix/apache-phoenix-5.0.0-alpha-HBase-2.0/bin/">Apache Phoenix-5.0.0-alpha-HBase</a></p>
 	
-<h3>Configuration Steps:</h3>
+<h3>Configuration Steps</h3>
 
 <h4>Hadoop Installation</h4>
 <p>1. Install and set java environment</p>
