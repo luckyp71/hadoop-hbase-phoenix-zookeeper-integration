@@ -52,4 +52,4 @@ as well as set HBASE_MANAGES_ZK=false</p>
 <p>Go to hbase-2.0.0 root directory and execute ./bin/start-hbase.sh</p>
 
 <h4>Run Phoenix</h4>
-<p>Go to phoenix-5.0.0-alpha-hbase root directory and execute ./bin/sqline-thin.py -a BASIC --auth-user=root --auth-password=root localhost:8765 ./examples/STOCK_SYMBOL.sql for example</p> 
+<p>Go to phoenix-5.0.0-alpha-hbase root directory and execute ./bin/sqline-thin.py -a BASIC --auth-user=root --auth-password=root localhost:8765</p> 
