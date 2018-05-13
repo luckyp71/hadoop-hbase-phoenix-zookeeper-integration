@@ -1,4 +1,4 @@
-<h1>Hadoop, Zookeeper, HBase, and Phoenix Integration</h1>
+<h1>Hadoop, HBase, Phoenix, and Zookeeper Integration</h1>
 
 <p>
 This repository is nothing but an example on how to integrate Apache Hadoop, Apache Zookeeper, Apache HBase, and Apache Phoenix on debian 8 (jessie).
